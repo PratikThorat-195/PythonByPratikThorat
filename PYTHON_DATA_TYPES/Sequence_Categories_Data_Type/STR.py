@@ -1,5 +1,5 @@
 s1 = "Python"
-print(s1, type(s1));
+print(s1, type(s1))
 
 s2 = "Python Programming"
 print(s2, type(s2))
@@ -63,3 +63,4 @@ print(b[6:])
 
 # special case ===========================================================
 print(b[-66:-1]) 
+

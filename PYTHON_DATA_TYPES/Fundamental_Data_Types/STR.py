@@ -63,3 +63,15 @@ print(b[6:])
 
 # special case ===========================================================
 print(b[-66:-1]) 
+
+
+print(b[2:6:2])
+print('--------======================------------------')
+print(b[0:6:2], "\n 0 to 6 tak ja per step me 2 bola he matlab 2 step aage move kr jese 0th position me P, he usse 2 step jump kr aya T, 2 step jump kr O output me ----> PTO aaega")
+
+r = "Pratik Umesh Thorat"
+print(r)
+print(r[::-1])
+print(r[::-5])
+print(r[-2:-6:-4])
+
