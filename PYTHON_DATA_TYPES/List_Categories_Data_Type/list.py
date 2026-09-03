@@ -20,4 +20,6 @@ print(l1,type(l1), id(l1))
 
 # we can add dupicate values in list
 
-l2 = [20, "Pratik", "Thorat",True,]
+l2 = [20, "Pratik", "Thorat",True ]
+l2.append(990.684936)
+print(l2, type(l2), id(l2), len(l2))
